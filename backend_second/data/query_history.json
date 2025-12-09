@@ -1,0 +1,1464 @@
+[
+  {
+    "timestamp": "2025-07-05T07:22:42.986690",
+    "raw_query": "esewa transaction",
+    "parsed_query": {
+      "raw_query": "esewa transaction",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-05T07:11:49.036759",
+    "raw_query": "khanepani",
+    "parsed_query": {
+      "raw_query": "khanepani",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-03T06:02:04.267066",
+    "raw_query": "Show electricity bill payment more than 500",
+    "parsed_query": {
+      "raw_query": "Show electricity bill payment more than 500",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:58:43.259369",
+    "raw_query": "esewa transaction",
+    "parsed_query": {
+      "raw_query": "esewa transaction",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:53:55.476921",
+    "raw_query": "Show purchases and services from last month",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:52:52.610611",
+    "raw_query": "Show purchases and services from march",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from march",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:52:15.154642",
+    "raw_query": "Show purchases and services ",
+    "parsed_query": {
+      "raw_query": "Show purchases and services ",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:51:57.543295",
+    "raw_query": "Show purchases and services from march",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from march",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:50:55.584120",
+    "raw_query": "Show purchases and services from 2025",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from 2025",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:50:39.625859",
+    "raw_query": "Show purchases and services from last month",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:49:45.890820",
+    "raw_query": "Show purchases and services from last month",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:46:50.913575",
+    "raw_query": "Show electricity bill payment more than 500",
+    "parsed_query": {
+      "raw_query": "Show electricity bill payment more than 500",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:43:36.060560",
+    "raw_query": "What products did I purchase",
+    "parsed_query": {
+      "raw_query": "What products did I purchase",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:38:56.197732",
+    "raw_query": "What products did I purchase",
+    "parsed_query": {
+      "raw_query": "What products did I purchase",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:31:39.977953",
+    "raw_query": "khanepani",
+    "parsed_query": {
+      "raw_query": "khanepani",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:26:19.928713",
+    "raw_query": "Show electricity bill payment more than 500",
+    "parsed_query": {
+      "raw_query": "Show electricity bill payment more than 500",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:21:30.576002",
+    "raw_query": "Show purchases and services from last month",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:13:38.031851",
+    "raw_query": "Show purchases and services from last month",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T12:09:56.551134",
+    "raw_query": "Show saved payments above Rs. 500",
+    "parsed_query": {
+      "raw_query": "Show saved payments above Rs. 500",
+      "intent": "transaction",
+      "amount": 500.0,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T11:33:38.272565",
+    "raw_query": "What products did I purchase",
+    "parsed_query": {
+      "raw_query": "What products did I purchase",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T11:14:02.314200",
+    "raw_query": "Show saved payments above Rs. 500",
+    "parsed_query": {
+      "raw_query": "Show saved payments above Rs. 500",
+      "intent": "transaction",
+      "amount": 500.0,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T11:09:30.556643",
+    "raw_query": "Show electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T10:29:25.172249",
+    "raw_query": "Show electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T10:28:57.177062",
+    "raw_query": "Show electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T10:14:23.426761",
+    "raw_query": "Show electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T10:13:23.810474",
+    "raw_query": "Show electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T10:03:31.383036",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T10:01:46.830267",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:55:17.708567",
+    "raw_query": "what products did i purchase",
+    "parsed_query": {
+      "raw_query": "what products did i purchase",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:50:08.274486",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:49:45.707757",
+    "raw_query": "services",
+    "parsed_query": {
+      "raw_query": "services",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:36:50.570432",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:36:23.805987",
+    "raw_query": "service",
+    "parsed_query": {
+      "raw_query": "service",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:35:30.553908",
+    "raw_query": "saved payments",
+    "parsed_query": {
+      "raw_query": "saved payments",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:34:44.538657",
+    "raw_query": "products",
+    "parsed_query": {
+      "raw_query": "products",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:34:03.769322",
+    "raw_query": "services",
+    "parsed_query": {
+      "raw_query": "services",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:33:56.469627",
+    "raw_query": "how to book movie ticket",
+    "parsed_query": {
+      "raw_query": "how to book movie ticket",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:32:32.002129",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:29:56.369500",
+    "raw_query": "how to book movie ticket",
+    "parsed_query": {
+      "raw_query": "how to book movie ticket",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:19:18.398183",
+    "raw_query": "how to change esewa password",
+    "parsed_query": {
+      "raw_query": "how to change esewa password",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:17:30.972014",
+    "raw_query": "most trending products",
+    "parsed_query": {
+      "raw_query": "most trending products",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:15:36.730984",
+    "raw_query": "most trending products",
+    "parsed_query": {
+      "raw_query": "most trending products",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:13:17.601088",
+    "raw_query": "movie ticket price",
+    "parsed_query": {
+      "raw_query": "movie ticket price",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:08:29.581661",
+    "raw_query": "recent purchase list of expensive products",
+    "parsed_query": {
+      "raw_query": "recent purchase list of expensive products",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T07:00:43.327846",
+    "raw_query": "khanepani ko bill",
+    "parsed_query": {
+      "raw_query": "khanepani ko bill",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T06:56:35.174882",
+    "raw_query": "recent purchase and transaction history of ncell",
+    "parsed_query": {
+      "raw_query": "recent purchase and transaction history of ncell",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T06:56:12.641781",
+    "raw_query": "recent purchase and transaction history",
+    "parsed_query": {
+      "raw_query": "recent purchase and transaction history",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T06:54:18.957321",
+    "raw_query": "recent purchase and transaction history",
+    "parsed_query": {
+      "raw_query": "recent purchase and transaction history",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T06:54:11.191295",
+    "raw_query": "movie ticket less than 1000",
+    "parsed_query": {
+      "raw_query": "movie ticket less than 1000",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1000.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-02T06:22:00.438435",
+    "raw_query": "movie ticket less than 1000",
+    "parsed_query": {
+      "raw_query": "movie ticket less than 1000",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1000.0
+      },
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "service_name": "ticket"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T06:04:43.619797",
+    "raw_query": "get the recent purchase history",
+    "parsed_query": {
+      "raw_query": "get the recent purchase history",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "service_name": "shopping"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T06:02:26.542386",
+    "raw_query": "get the recent purchase history",
+    "parsed_query": {
+      "raw_query": "get the recent purchase history",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "service_name": "shopping"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T05:58:15.141932",
+    "raw_query": "get the recent purchase history",
+    "parsed_query": {
+      "raw_query": "get the recent purchase history",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "service_name": "shopping"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-02T05:55:13.194482",
+    "raw_query": "get the recent purchase history",
+    "parsed_query": {
+      "raw_query": "get the recent purchase history",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "service_name": "shopping"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:46:46.918181",
+    "raw_query": "esewa transaction",
+    "parsed_query": {
+      "raw_query": "esewa transaction",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "esewa"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:45:24.376070",
+    "raw_query": "esewa transaction",
+    "parsed_query": {
+      "raw_query": "esewa transaction",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "esewa"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:41:24.108398",
+    "raw_query": "some saved payments",
+    "parsed_query": {
+      "raw_query": "some saved payments",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:40:55.276372",
+    "raw_query": "ntc product",
+    "parsed_query": {
+      "raw_query": "ntc product",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "ntc"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:39:33.474683",
+    "raw_query": "khanepani ko bill",
+    "parsed_query": {
+      "raw_query": "khanepani ko bill",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "khanepani",
+        "service_name": "water"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:34:26.790081",
+    "raw_query": "esewa transaction on may",
+    "parsed_query": {
+      "raw_query": "esewa transaction on may",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "==",
+        "date": "2025-05-01"
+      },
+      "metadata": {
+        "merchant_name": "esewa"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:18:40.295960",
+    "raw_query": "show transaction nea",
+    "parsed_query": {
+      "raw_query": "show transaction nea",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "nepal electricity authority"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:18:17.159834",
+    "raw_query": "show transaction history related to nea",
+    "parsed_query": {
+      "raw_query": "show transaction history related to nea",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "nepal electricity authority"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:16:30.008375",
+    "raw_query": "show transaction history related to nea",
+    "parsed_query": {
+      "raw_query": "show transaction history related to nea",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "nepal electricity authority"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:15:48.470059",
+    "raw_query": "show transaction history related to nea",
+    "parsed_query": {
+      "raw_query": "show transaction history related to nea",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "nepal electricity authority"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T12:11:58.102531",
+    "raw_query": "show my most expensive purchase",
+    "parsed_query": {
+      "raw_query": "show my most expensive purchase",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-07-01T11:46:58.896461",
+    "raw_query": "ncell topup prices",
+    "parsed_query": {
+      "raw_query": "ncell topup prices",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "ncell",
+        "service_name": "mobile"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T11:15:45.838245",
+    "raw_query": "last month transactions",
+    "parsed_query": {
+      "raw_query": "last month transactions",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      },
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-07-01T11:15:38.241378",
+    "raw_query": "last month transactions ",
+    "parsed_query": {
+      "raw_query": "last month transactions ",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      },
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-07-01T10:31:23.867477",
+    "raw_query": "ncell topup prices",
+    "parsed_query": {
+      "raw_query": "ncell topup prices",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "ncell",
+        "service_name": "mobile"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T10:00:55.191128",
+    "raw_query": "what are my purchase last month",
+    "parsed_query": {
+      "raw_query": "what are my purchase last month",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      },
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-07-01T06:00:10.272881",
+    "raw_query": "show purchase and transaction list of last month",
+    "parsed_query": {
+      "raw_query": "show purchase and transaction list of last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      },
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-07-01T05:33:27.872439",
+    "raw_query": "give me recent transaction related to ncell",
+    "parsed_query": {
+      "raw_query": "give me recent transaction related to ncell",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "ncell"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T05:20:55.200933",
+    "raw_query": "show purchases and services from last month",
+    "parsed_query": {
+      "raw_query": "show purchases and services from last month",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      },
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-07-01T05:00:35.709192",
+    "raw_query": "show transaction history related to nea",
+    "parsed_query": {
+      "raw_query": "show transaction history related to nea",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "nepal electricity authority"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-07-01T04:58:25.084610",
+    "raw_query": "show purchases and services from last month",
+    "parsed_query": {
+      "raw_query": "show purchases and services from last month",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-01",
+        "end": "2025-06-30"
+      },
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-06-30T15:51:36.431885",
+    "raw_query": "movie tickets price ",
+    "parsed_query": {
+      "raw_query": "movie tickets price ",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-06-30T15:40:17.351324",
+    "raw_query": "give the recent transaction history of ncell",
+    "parsed_query": {
+      "raw_query": "give the recent transaction history of ncell",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "ncell"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-30T15:31:28.193839",
+    "raw_query": "give the recent transaction history of ncell",
+    "parsed_query": {
+      "raw_query": "give the recent transaction history of ncell",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "ncell"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-30T15:22:06.806279",
+    "raw_query": "water transactions last month",
+    "parsed_query": {
+      "raw_query": "water transactions last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      },
+      "metadata": {
+        "service_name": "water"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-30T15:08:53.836811",
+    "raw_query": "nea electricity bill in june",
+    "parsed_query": {
+      "raw_query": "nea electricity bill in june",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "nepal electricity authority",
+        "service_name": "electricity"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-30T15:01:27.119235",
+    "raw_query": "give the recent transaction history of ncell",
+    "parsed_query": {
+      "raw_query": "give the recent transaction history of ncell",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "ncell"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-30T09:40:57.241371",
+    "raw_query": "how to change password of esewa",
+    "parsed_query": {
+      "raw_query": "how to change password of esewa",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null,
+      "metadata": {
+        "merchant_name": "esewa"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-29T10:22:52.255842",
+    "raw_query": "movie ticket less than 500",
+    "parsed_query": {
+      "raw_query": "movie ticket less than 500",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null,
+      "metadata": {}
+    }
+  },
+  {
+    "timestamp": "2025-06-29T09:11:17.434662",
+    "raw_query": "water bill last month less than 1500",
+    "parsed_query": {
+      "raw_query": "water bill last month less than 1500",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      },
+      "metadata": {
+        "service_name": "water"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-29T09:07:16.443942",
+    "raw_query": "water bill last month less than 1200",
+    "parsed_query": {
+      "raw_query": "water bill last month less than 1200",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1200.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      },
+      "metadata": {
+        "service_name": "water"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-29T08:53:56.314000",
+    "raw_query": "water bill last month less than 1200",
+    "parsed_query": {
+      "raw_query": "water bill last month less than 1200",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1200.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      },
+      "metadata": {
+        "service_name": "water"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-29T08:22:34.168630",
+    "raw_query": "list the ncell transaction from last week",
+    "parsed_query": {
+      "raw_query": "list the ncell transaction from last week",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-06-23",
+        "end": "2025-06-29"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-29T07:50:35.564594",
+    "raw_query": "nea bill less than 1500",
+    "parsed_query": {
+      "raw_query": "nea bill less than 1500",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T07:49:59.421039",
+    "raw_query": "electricity bill less than  1500",
+    "parsed_query": {
+      "raw_query": "electricity bill less than  1500",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T07:49:36.803908",
+    "raw_query": "electricity bill less than  500",
+    "parsed_query": {
+      "raw_query": "electricity bill less than  500",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T07:49:07.402745",
+    "raw_query": "recent ntc transactions less than 1000",
+    "parsed_query": {
+      "raw_query": "recent ntc transactions less than 1000",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1000.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T07:08:03.530669",
+    "raw_query": "recent ntc transactions less than 1000",
+    "parsed_query": {
+      "raw_query": "recent ntc transactions less than 1000",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1000.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T07:07:56.666227",
+    "raw_query": "recent ntc transactions less than 1000",
+    "parsed_query": {
+      "raw_query": "recent ntc transactions less than 1000",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1000.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T07:04:08.850624",
+    "raw_query": "recent ntc transactions",
+    "parsed_query": {
+      "raw_query": "recent ntc transactions",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T06:57:56.805572",
+    "raw_query": "ncell topup prices",
+    "parsed_query": {
+      "raw_query": "ncell topup prices",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T06:57:16.605441",
+    "raw_query": "latest transactions",
+    "parsed_query": {
+      "raw_query": "latest transactions",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T06:16:02.064616",
+    "raw_query": "ncell topup",
+    "parsed_query": {
+      "raw_query": "ncell topup",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T06:14:25.677157",
+    "raw_query": "ncell topup",
+    "parsed_query": {
+      "raw_query": "ncell topup",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T06:01:07.830084",
+    "raw_query": "ncell topup",
+    "parsed_query": {
+      "raw_query": "ncell topup",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-29T05:53:24.022199",
+    "raw_query": "ncell topup",
+    "parsed_query": {
+      "raw_query": "ncell topup",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  }
+]

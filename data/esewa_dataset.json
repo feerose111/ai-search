@@ -1,0 +1,3462 @@
+[
+  {
+    "id": "T100000",
+    "user_id": "U10004",
+    "type": "transaction",
+    "amount": 1053,
+    "currency": "NPR",
+    "date": "2024-06-22T08:56:59",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "pending",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.52.44"
+    }
+  },
+  {
+    "id": "T100001",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 172,
+    "currency": "NPR",
+    "date": "2024-03-13T18:36:21",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "pending",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.119.13"
+    }
+  },
+  {
+    "id": "T100002",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 2711,
+    "currency": "NPR",
+    "date": "2025-02-27T06:26:43",
+    "merchant_name": "Subisu",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "failed",
+    "properties": {
+      "service_name": "subisu",
+      "ip": "10.14.112.229"
+    }
+  },
+  {
+    "id": "T100003",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 703,
+    "currency": "NPR",
+    "date": "2024-11-24T06:06:12",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "canceled",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.142.79"
+    }
+  },
+  {
+    "id": "T100004",
+    "user_id": "U10007",
+    "type": "transaction",
+    "amount": 429,
+    "currency": "NPR",
+    "date": "2024-10-22T02:21:29",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "success",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.183.176"
+    }
+  },
+  {
+    "id": "T100005",
+    "user_id": "U10020",
+    "type": "transaction",
+    "amount": 1931,
+    "currency": "NPR",
+    "date": "2025-02-20T12:00:58",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "success",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.193.40"
+    }
+  },
+  {
+    "id": "T100006",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 2583,
+    "currency": "NPR",
+    "date": "2024-10-07T21:21:55",
+    "merchant_name": "Smart Cell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "smart_cell",
+      "ip": "10.14.98.35"
+    }
+  },
+  {
+    "id": "T100007",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 1235,
+    "currency": "NPR",
+    "date": "2024-03-02T23:25:48",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "pending",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.51.194"
+    }
+  },
+  {
+    "id": "T100008",
+    "user_id": "U10009",
+    "type": "transaction",
+    "amount": 716,
+    "currency": "NPR",
+    "date": "2024-10-14T12:40:24",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "canceled",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.107.136"
+    }
+  },
+  {
+    "id": "T100009",
+    "user_id": "U10003",
+    "type": "transaction",
+    "amount": 2237,
+    "currency": "NPR",
+    "date": "2024-07-09T03:36:23",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "pending",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.236.194"
+    }
+  },
+  {
+    "id": "T100010",
+    "user_id": "U10009",
+    "type": "transaction",
+    "amount": 2854,
+    "currency": "NPR",
+    "date": "2024-09-08T21:04:05",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "success",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.117.16"
+    }
+  },
+  {
+    "id": "T100011",
+    "user_id": "U10011",
+    "type": "transaction",
+    "amount": 321,
+    "currency": "NPR",
+    "date": "2024-06-12T21:00:18",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.161.108"
+    }
+  },
+  {
+    "id": "T100012",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 635,
+    "currency": "NPR",
+    "date": "2024-07-24T17:43:27",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "pending",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.126.134"
+    }
+  },
+  {
+    "id": "T100013",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 1532,
+    "currency": "NPR",
+    "date": "2024-06-19T08:26:06",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "pending",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.252.46"
+    }
+  },
+  {
+    "id": "T100014",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 2620,
+    "currency": "NPR",
+    "date": "2024-05-04T06:16:50",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.216.32"
+    }
+  },
+  {
+    "id": "T100015",
+    "user_id": "U10013",
+    "type": "transaction",
+    "amount": 2217,
+    "currency": "NPR",
+    "date": "2024-07-14T06:41:55",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.5.58"
+    }
+  },
+  {
+    "id": "T100016",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 1443,
+    "currency": "NPR",
+    "date": "2024-03-27T15:28:59",
+    "merchant_name": "Smart Cell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "canceled",
+    "properties": {
+      "service_name": "smart_cell",
+      "ip": "10.14.222.80"
+    }
+  },
+  {
+    "id": "T100017",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 2100,
+    "currency": "NPR",
+    "date": "2024-05-18T18:18:44",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.54.152"
+    }
+  },
+  {
+    "id": "T100018",
+    "user_id": "U10017",
+    "type": "transaction",
+    "amount": 676,
+    "currency": "NPR",
+    "date": "2024-10-17T10:15:33",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "pending",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.0.165"
+    }
+  },
+  {
+    "id": "T100019",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 1536,
+    "currency": "NPR",
+    "date": "2024-08-26T20:28:43",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "pending",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.29.123"
+    }
+  },
+  {
+    "id": "T100020",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 2040,
+    "currency": "NPR",
+    "date": "2024-02-23T18:12:53",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.64.65"
+    }
+  },
+  {
+    "id": "T100021",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 1135,
+    "currency": "NPR",
+    "date": "2025-02-13T20:33:08",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.216.108"
+    }
+  },
+  {
+    "id": "T100022",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 2970,
+    "currency": "NPR",
+    "date": "2024-08-30T02:48:46",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "failed",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.191.224"
+    }
+  },
+  {
+    "id": "T100023",
+    "user_id": "U10017",
+    "type": "transaction",
+    "amount": 1065,
+    "currency": "NPR",
+    "date": "2024-06-23T12:39:43",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "success",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.173.10"
+    }
+  },
+  {
+    "id": "T100024",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 2460,
+    "currency": "NPR",
+    "date": "2024-06-20T01:08:58",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "success",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.36.30"
+    }
+  },
+  {
+    "id": "T100025",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 1403,
+    "currency": "NPR",
+    "date": "2024-02-25T00:52:36",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.121.142"
+    }
+  },
+  {
+    "id": "T100026",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 591,
+    "currency": "NPR",
+    "date": "2025-03-19T13:00:53",
+    "merchant_name": "Subisu",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "subisu",
+      "ip": "10.14.242.124"
+    }
+  },
+  {
+    "id": "T100027",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 436,
+    "currency": "NPR",
+    "date": "2024-03-16T06:55:16",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.220.181"
+    }
+  },
+  {
+    "id": "T100028",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 271,
+    "currency": "NPR",
+    "date": "2025-05-22T13:17:35",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.50.31"
+    }
+  },
+  {
+    "id": "T100029",
+    "user_id": "U10013",
+    "type": "transaction",
+    "amount": 497,
+    "currency": "NPR",
+    "date": "2024-07-12T03:17:24",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "pending",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.97.229"
+    }
+  },
+  {
+    "id": "T100030",
+    "user_id": "U10005",
+    "type": "transaction",
+    "amount": 1190,
+    "currency": "NPR",
+    "date": "2024-12-25T08:00:44",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "pending",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.38.226"
+    }
+  },
+  {
+    "id": "T100031",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 2721,
+    "currency": "NPR",
+    "date": "2025-02-23T21:17:22",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "success",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.47.121"
+    }
+  },
+  {
+    "id": "T100032",
+    "user_id": "U10006",
+    "type": "transaction",
+    "amount": 2021,
+    "currency": "NPR",
+    "date": "2024-06-15T00:32:18",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "failed",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.30.84"
+    }
+  },
+  {
+    "id": "T100033",
+    "user_id": "U10013",
+    "type": "transaction",
+    "amount": 1136,
+    "currency": "NPR",
+    "date": "2024-12-19T09:58:14",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "canceled",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.216.249"
+    }
+  },
+  {
+    "id": "T100034",
+    "user_id": "U10005",
+    "type": "transaction",
+    "amount": 941,
+    "currency": "NPR",
+    "date": "2024-02-15T10:12:27",
+    "merchant_name": "Vianet",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "vianet",
+      "ip": "10.14.31.160"
+    }
+  },
+  {
+    "id": "T100035",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 2109,
+    "currency": "NPR",
+    "date": "2025-02-16T12:54:31",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "pending",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.29.41"
+    }
+  },
+  {
+    "id": "T100036",
+    "user_id": "U10006",
+    "type": "transaction",
+    "amount": 2815,
+    "currency": "NPR",
+    "date": "2024-07-01T16:31:06",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "failed",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.61.126"
+    }
+  },
+  {
+    "id": "T100037",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 2586,
+    "currency": "NPR",
+    "date": "2024-03-04T16:16:53",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "failed",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.161.133"
+    }
+  },
+  {
+    "id": "T100038",
+    "user_id": "U10007",
+    "type": "transaction",
+    "amount": 1027,
+    "currency": "NPR",
+    "date": "2024-07-25T07:24:48",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "failed",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.67.153"
+    }
+  },
+  {
+    "id": "T100039",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 88,
+    "currency": "NPR",
+    "date": "2024-12-21T23:03:40",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.51.37"
+    }
+  },
+  {
+    "id": "T100040",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 1136,
+    "currency": "NPR",
+    "date": "2024-04-12T21:10:09",
+    "merchant_name": "Subisu",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "canceled",
+    "properties": {
+      "service_name": "subisu",
+      "ip": "10.14.35.125"
+    }
+  },
+  {
+    "id": "T100041",
+    "user_id": "U10012",
+    "type": "transaction",
+    "amount": 1844,
+    "currency": "NPR",
+    "date": "2025-02-25T22:19:00",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.154.4"
+    }
+  },
+  {
+    "id": "T100042",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 474,
+    "currency": "NPR",
+    "date": "2024-04-14T07:22:04",
+    "merchant_name": "Smart Cell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "canceled",
+    "properties": {
+      "service_name": "smart_cell",
+      "ip": "10.14.59.54"
+    }
+  },
+  {
+    "id": "T100043",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 1204,
+    "currency": "NPR",
+    "date": "2025-04-14T18:50:42",
+    "merchant_name": "Vianet",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "pending",
+    "properties": {
+      "service_name": "vianet",
+      "ip": "10.14.175.104"
+    }
+  },
+  {
+    "id": "T100044",
+    "user_id": "U10009",
+    "type": "transaction",
+    "amount": 1078,
+    "currency": "NPR",
+    "date": "2024-02-09T10:57:36",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "success",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.216.141"
+    }
+  },
+  {
+    "id": "T100045",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 585,
+    "currency": "NPR",
+    "date": "2025-05-09T20:39:14",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "canceled",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.82.226"
+    }
+  },
+  {
+    "id": "T100046",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 2347,
+    "currency": "NPR",
+    "date": "2024-01-08T12:15:22",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "success",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.38.76"
+    }
+  },
+  {
+    "id": "T100047",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 2435,
+    "currency": "NPR",
+    "date": "2025-03-05T03:48:51",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "pending",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.220.65"
+    }
+  },
+  {
+    "id": "T100048",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 213,
+    "currency": "NPR",
+    "date": "2024-10-04T22:02:51",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "pending",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.127.52"
+    }
+  },
+  {
+    "id": "T100049",
+    "user_id": "U10012",
+    "type": "transaction",
+    "amount": 2592,
+    "currency": "NPR",
+    "date": "2024-04-30T01:04:58",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "pending",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.83.90"
+    }
+  },
+  {
+    "id": "T100050",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 1410,
+    "currency": "NPR",
+    "date": "2024-11-15T18:53:22",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.127.136"
+    }
+  },
+  {
+    "id": "T100051",
+    "user_id": "U10006",
+    "type": "transaction",
+    "amount": 1616,
+    "currency": "NPR",
+    "date": "2024-01-31T01:52:44",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "failed",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.113.102"
+    }
+  },
+  {
+    "id": "T100052",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 982,
+    "currency": "NPR",
+    "date": "2024-06-22T03:35:46",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "success",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.98.204"
+    }
+  },
+  {
+    "id": "T100053",
+    "user_id": "U10011",
+    "type": "transaction",
+    "amount": 1193,
+    "currency": "NPR",
+    "date": "2024-09-29T17:50:17",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.204.169"
+    }
+  },
+  {
+    "id": "T100054",
+    "user_id": "U10001",
+    "type": "transaction",
+    "amount": 781,
+    "currency": "NPR",
+    "date": "2025-03-26T22:58:37",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "canceled",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.19.55"
+    }
+  },
+  {
+    "id": "T100055",
+    "user_id": "U10020",
+    "type": "transaction",
+    "amount": 1334,
+    "currency": "NPR",
+    "date": "2024-12-04T22:58:17",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.59.197"
+    }
+  },
+  {
+    "id": "T100056",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 231,
+    "currency": "NPR",
+    "date": "2024-12-04T16:42:04",
+    "merchant_name": "Vianet",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "success",
+    "properties": {
+      "service_name": "vianet",
+      "ip": "10.14.100.186"
+    }
+  },
+  {
+    "id": "T100057",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 2602,
+    "currency": "NPR",
+    "date": "2024-08-31T19:48:42",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.63.153"
+    }
+  },
+  {
+    "id": "T100058",
+    "user_id": "U10017",
+    "type": "transaction",
+    "amount": 1722,
+    "currency": "NPR",
+    "date": "2024-09-10T08:29:24",
+    "merchant_name": "Smart Cell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "failed",
+    "properties": {
+      "service_name": "smart_cell",
+      "ip": "10.14.151.65"
+    }
+  },
+  {
+    "id": "T100059",
+    "user_id": "U10007",
+    "type": "transaction",
+    "amount": 2824,
+    "currency": "NPR",
+    "date": "2024-05-15T04:06:17",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.154.207"
+    }
+  },
+  {
+    "id": "T100060",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 1225,
+    "currency": "NPR",
+    "date": "2024-06-12T06:05:21",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "failed",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.164.238"
+    }
+  },
+  {
+    "id": "T100061",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 2143,
+    "currency": "NPR",
+    "date": "2025-01-02T12:49:47",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.86.43"
+    }
+  },
+  {
+    "id": "T100062",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 432,
+    "currency": "NPR",
+    "date": "2024-07-01T10:16:04",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.158.115"
+    }
+  },
+  {
+    "id": "T100063",
+    "user_id": "U10007",
+    "type": "transaction",
+    "amount": 239,
+    "currency": "NPR",
+    "date": "2024-07-09T04:11:44",
+    "merchant_name": "WorldLink Communications",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "failed",
+    "properties": {
+      "service_name": "worldlink_communications",
+      "ip": "10.14.37.233"
+    }
+  },
+  {
+    "id": "T100064",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 2992,
+    "currency": "NPR",
+    "date": "2024-10-25T05:52:38",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "failed",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.204.124"
+    }
+  },
+  {
+    "id": "T100065",
+    "user_id": "U10005",
+    "type": "transaction",
+    "amount": 486,
+    "currency": "NPR",
+    "date": "2024-11-26T05:17:58",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "pending",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.90.237"
+    }
+  },
+  {
+    "id": "T100066",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 547,
+    "currency": "NPR",
+    "date": "2024-12-20T13:03:54",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "pending",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.237.162"
+    }
+  },
+  {
+    "id": "T100067",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 2294,
+    "currency": "NPR",
+    "date": "2024-12-12T08:25:55",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "pending",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.243.230"
+    }
+  },
+  {
+    "id": "T100068",
+    "user_id": "U10009",
+    "type": "transaction",
+    "amount": 1185,
+    "currency": "NPR",
+    "date": "2025-02-08T21:43:58",
+    "merchant_name": "Subisu",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "failed",
+    "properties": {
+      "service_name": "subisu",
+      "ip": "10.14.122.140"
+    }
+  },
+  {
+    "id": "T100069",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 1010,
+    "currency": "NPR",
+    "date": "2024-07-30T01:08:12",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "canceled",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.163.41"
+    }
+  },
+  {
+    "id": "T100070",
+    "user_id": "U10005",
+    "type": "transaction",
+    "amount": 1618,
+    "currency": "NPR",
+    "date": "2024-04-28T16:29:47",
+    "merchant_name": "WorldLink Communications",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "worldlink_communications",
+      "ip": "10.14.109.32"
+    }
+  },
+  {
+    "id": "T100071",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 2272,
+    "currency": "NPR",
+    "date": "2024-12-27T21:27:30",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "failed",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.31.105"
+    }
+  },
+  {
+    "id": "T100072",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 2408,
+    "currency": "NPR",
+    "date": "2024-10-22T10:48:58",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "failed",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.3.180"
+    }
+  },
+  {
+    "id": "T100073",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 2254,
+    "currency": "NPR",
+    "date": "2025-02-28T04:38:38",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.112.249"
+    }
+  },
+  {
+    "id": "T100074",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 2039,
+    "currency": "NPR",
+    "date": "2024-01-23T13:03:42",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "failed",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.172.207"
+    }
+  },
+  {
+    "id": "T100075",
+    "user_id": "U10006",
+    "type": "transaction",
+    "amount": 2598,
+    "currency": "NPR",
+    "date": "2025-02-18T20:47:10",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "success",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.201.13"
+    }
+  },
+  {
+    "id": "T100076",
+    "user_id": "U10003",
+    "type": "transaction",
+    "amount": 605,
+    "currency": "NPR",
+    "date": "2024-12-24T14:40:58",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "pending",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.25.133"
+    }
+  },
+  {
+    "id": "T100077",
+    "user_id": "U10013",
+    "type": "transaction",
+    "amount": 1912,
+    "currency": "NPR",
+    "date": "2024-09-10T20:50:50",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "canceled",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.194.142"
+    }
+  },
+  {
+    "id": "T100078",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 1976,
+    "currency": "NPR",
+    "date": "2024-01-16T01:19:50",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.26.179"
+    }
+  },
+  {
+    "id": "T100079",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 2719,
+    "currency": "NPR",
+    "date": "2024-02-01T06:27:57",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "success",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.126.102"
+    }
+  },
+  {
+    "id": "T100080",
+    "user_id": "U10001",
+    "type": "transaction",
+    "amount": 1027,
+    "currency": "NPR",
+    "date": "2024-04-08T00:55:46",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "failed",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.58.111"
+    }
+  },
+  {
+    "id": "T100081",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 1560,
+    "currency": "NPR",
+    "date": "2024-05-10T07:48:58",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.58.83"
+    }
+  },
+  {
+    "id": "T100082",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 1327,
+    "currency": "NPR",
+    "date": "2025-03-23T05:37:44",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.192.203"
+    }
+  },
+  {
+    "id": "T100083",
+    "user_id": "U10007",
+    "type": "transaction",
+    "amount": 467,
+    "currency": "NPR",
+    "date": "2024-08-22T05:54:31",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.61.21"
+    }
+  },
+  {
+    "id": "T100084",
+    "user_id": "U10012",
+    "type": "transaction",
+    "amount": 2759,
+    "currency": "NPR",
+    "date": "2024-10-14T19:56:30",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "success",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.174.6"
+    }
+  },
+  {
+    "id": "T100085",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 1825,
+    "currency": "NPR",
+    "date": "2024-10-08T07:40:27",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.235.78"
+    }
+  },
+  {
+    "id": "T100086",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 2187,
+    "currency": "NPR",
+    "date": "2025-05-20T05:24:18",
+    "merchant_name": "Subisu",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "canceled",
+    "properties": {
+      "service_name": "subisu",
+      "ip": "10.14.247.238"
+    }
+  },
+  {
+    "id": "T100087",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 1370,
+    "currency": "NPR",
+    "date": "2024-07-09T16:21:41",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "success",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.142.230"
+    }
+  },
+  {
+    "id": "T100088",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 1427,
+    "currency": "NPR",
+    "date": "2024-01-23T07:00:24",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "failed",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.166.93"
+    }
+  },
+  {
+    "id": "T100089",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 1108,
+    "currency": "NPR",
+    "date": "2024-09-21T08:22:33",
+    "merchant_name": "Vianet",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "canceled",
+    "properties": {
+      "service_name": "vianet",
+      "ip": "10.14.141.5"
+    }
+  },
+  {
+    "id": "T100090",
+    "user_id": "U10017",
+    "type": "transaction",
+    "amount": 1038,
+    "currency": "NPR",
+    "date": "2024-11-11T16:22:09",
+    "merchant_name": "WorldLink Communications",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "failed",
+    "properties": {
+      "service_name": "worldlink_communications",
+      "ip": "10.14.123.243"
+    }
+  },
+  {
+    "id": "T100091",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 431,
+    "currency": "NPR",
+    "date": "2024-08-16T12:56:55",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "pending",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.207.124"
+    }
+  },
+  {
+    "id": "T100092",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 1988,
+    "currency": "NPR",
+    "date": "2025-03-05T21:29:01",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.176.217"
+    }
+  },
+  {
+    "id": "T100093",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 2928,
+    "currency": "NPR",
+    "date": "2024-12-18T10:25:29",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "canceled",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.156.128"
+    }
+  },
+  {
+    "id": "T100094",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 1342,
+    "currency": "NPR",
+    "date": "2024-04-02T20:39:42",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.94.98"
+    }
+  },
+  {
+    "id": "T100095",
+    "user_id": "U10007",
+    "type": "transaction",
+    "amount": 1182,
+    "currency": "NPR",
+    "date": "2025-04-02T22:41:47",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.144.51"
+    }
+  },
+  {
+    "id": "T100096",
+    "user_id": "U10007",
+    "type": "transaction",
+    "amount": 1528,
+    "currency": "NPR",
+    "date": "2024-05-19T09:01:58",
+    "merchant_name": "Ncell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "canceled",
+    "properties": {
+      "service_name": "ncell",
+      "ip": "10.14.7.64"
+    }
+  },
+  {
+    "id": "T100097",
+    "user_id": "U10009",
+    "type": "transaction",
+    "amount": 2316,
+    "currency": "NPR",
+    "date": "2024-08-14T21:49:18",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.64.251"
+    }
+  },
+  {
+    "id": "T100098",
+    "user_id": "U10004",
+    "type": "transaction",
+    "amount": 1972,
+    "currency": "NPR",
+    "date": "2025-01-06T19:52:46",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "failed",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.174.94"
+    }
+  },
+  {
+    "id": "T100099",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 517,
+    "currency": "NPR",
+    "date": "2024-02-20T18:05:23",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "failed",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.251.37"
+    }
+  },
+  {
+    "id": "T100100",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 671,
+    "currency": "NPR",
+    "date": "2024-04-25T21:14:40",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.155.43"
+    }
+  },
+  {
+    "id": "T100101",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 2533,
+    "currency": "NPR",
+    "date": "2025-04-08T00:36:35",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.115.194"
+    }
+  },
+  {
+    "id": "T100102",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 2460,
+    "currency": "NPR",
+    "date": "2024-11-29T01:58:03",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "canceled",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.30.50"
+    }
+  },
+  {
+    "id": "T100103",
+    "user_id": "U10007",
+    "type": "transaction",
+    "amount": 1133,
+    "currency": "NPR",
+    "date": "2025-05-27T23:16:22",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "success",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.80.122"
+    }
+  },
+  {
+    "id": "T100104",
+    "user_id": "U10006",
+    "type": "transaction",
+    "amount": 691,
+    "currency": "NPR",
+    "date": "2024-01-03T01:52:44",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "failed",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.230.240"
+    }
+  },
+  {
+    "id": "T100105",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 1230,
+    "currency": "NPR",
+    "date": "2024-08-07T14:15:08",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.232.36"
+    }
+  },
+  {
+    "id": "T100106",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 2465,
+    "currency": "NPR",
+    "date": "2025-05-28T13:20:42",
+    "merchant_name": "Smart Cell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "pending",
+    "properties": {
+      "service_name": "smart_cell",
+      "ip": "10.14.217.58"
+    }
+  },
+  {
+    "id": "T100107",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 660,
+    "currency": "NPR",
+    "date": "2024-07-25T07:44:53",
+    "merchant_name": "Subisu",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "pending",
+    "properties": {
+      "service_name": "subisu",
+      "ip": "10.14.36.30"
+    }
+  },
+  {
+    "id": "T100108",
+    "user_id": "U10006",
+    "type": "transaction",
+    "amount": 2381,
+    "currency": "NPR",
+    "date": "2024-08-12T04:05:28",
+    "merchant_name": "Smart Cell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "failed",
+    "properties": {
+      "service_name": "smart_cell",
+      "ip": "10.14.63.239"
+    }
+  },
+  {
+    "id": "T100109",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 1165,
+    "currency": "NPR",
+    "date": "2025-01-23T17:28:39",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.252.224"
+    }
+  },
+  {
+    "id": "T100110",
+    "user_id": "U10003",
+    "type": "transaction",
+    "amount": 1819,
+    "currency": "NPR",
+    "date": "2024-09-07T08:30:35",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.128.13"
+    }
+  },
+  {
+    "id": "T100111",
+    "user_id": "U10003",
+    "type": "transaction",
+    "amount": 2406,
+    "currency": "NPR",
+    "date": "2025-04-01T00:45:52",
+    "merchant_name": "Subisu",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "success",
+    "properties": {
+      "service_name": "subisu",
+      "ip": "10.14.137.20"
+    }
+  },
+  {
+    "id": "T100112",
+    "user_id": "U10006",
+    "type": "transaction",
+    "amount": 1189,
+    "currency": "NPR",
+    "date": "2024-05-20T23:12:10",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.223.251"
+    }
+  },
+  {
+    "id": "T100113",
+    "user_id": "U10003",
+    "type": "transaction",
+    "amount": 1722,
+    "currency": "NPR",
+    "date": "2024-09-15T21:19:07",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "canceled",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.53.82"
+    }
+  },
+  {
+    "id": "T100114",
+    "user_id": "U10011",
+    "type": "transaction",
+    "amount": 1230,
+    "currency": "NPR",
+    "date": "2025-05-29T15:27:08",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "failed",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.18.232"
+    }
+  },
+  {
+    "id": "T100115",
+    "user_id": "U10003",
+    "type": "transaction",
+    "amount": 1374,
+    "currency": "NPR",
+    "date": "2024-03-31T00:56:06",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "failed",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.0.236"
+    }
+  },
+  {
+    "id": "T100116",
+    "user_id": "U10014",
+    "type": "transaction",
+    "amount": 2173,
+    "currency": "NPR",
+    "date": "2024-10-08T00:03:21",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.255.226"
+    }
+  },
+  {
+    "id": "T100117",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 2299,
+    "currency": "NPR",
+    "date": "2024-04-11T18:15:48",
+    "merchant_name": "Vianet",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "canceled",
+    "properties": {
+      "service_name": "vianet",
+      "ip": "10.14.224.248"
+    }
+  },
+  {
+    "id": "T100118",
+    "user_id": "U10004",
+    "type": "transaction",
+    "amount": 2957,
+    "currency": "NPR",
+    "date": "2024-05-03T00:22:58",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "canceled",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.7.208"
+    }
+  },
+  {
+    "id": "T100119",
+    "user_id": "U10003",
+    "type": "transaction",
+    "amount": 1940,
+    "currency": "NPR",
+    "date": "2024-04-01T05:43:39",
+    "merchant_name": "WorldLink Communications",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "worldlink_communications",
+      "ip": "10.14.78.255"
+    }
+  },
+  {
+    "id": "T100120",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 1751,
+    "currency": "NPR",
+    "date": "2025-01-09T18:26:38",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "failed",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.124.233"
+    }
+  },
+  {
+    "id": "T100121",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 830,
+    "currency": "NPR",
+    "date": "2025-04-10T13:12:29",
+    "merchant_name": "Vianet",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "vianet",
+      "ip": "10.14.69.35"
+    }
+  },
+  {
+    "id": "T100122",
+    "user_id": "U10009",
+    "type": "transaction",
+    "amount": 2129,
+    "currency": "NPR",
+    "date": "2024-07-26T12:27:33",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "success",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.144.152"
+    }
+  },
+  {
+    "id": "T100123",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 658,
+    "currency": "NPR",
+    "date": "2024-12-12T20:14:48",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.247.176"
+    }
+  },
+  {
+    "id": "T100124",
+    "user_id": "U10011",
+    "type": "transaction",
+    "amount": 1915,
+    "currency": "NPR",
+    "date": "2024-09-06T22:21:52",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "pending",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.122.196"
+    }
+  },
+  {
+    "id": "T100125",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 1353,
+    "currency": "NPR",
+    "date": "2025-01-02T08:54:58",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.195.197"
+    }
+  },
+  {
+    "id": "T100126",
+    "user_id": "U10005",
+    "type": "transaction",
+    "amount": 567,
+    "currency": "NPR",
+    "date": "2025-01-25T03:23:08",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.169.51"
+    }
+  },
+  {
+    "id": "T100127",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 112,
+    "currency": "NPR",
+    "date": "2024-04-21T23:15:06",
+    "merchant_name": "Khanepani",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "failed",
+    "properties": {
+      "service_name": "khanepani",
+      "ip": "10.14.79.38"
+    }
+  },
+  {
+    "id": "T100128",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 2602,
+    "currency": "NPR",
+    "date": "2024-11-04T17:37:34",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.41.168"
+    }
+  },
+  {
+    "id": "T100129",
+    "user_id": "U10018",
+    "type": "transaction",
+    "amount": 2617,
+    "currency": "NPR",
+    "date": "2025-01-14T00:00:01",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.18.35"
+    }
+  },
+  {
+    "id": "T100130",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 981,
+    "currency": "NPR",
+    "date": "2024-03-11T04:47:34",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "failed",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.50.51"
+    }
+  },
+  {
+    "id": "T100131",
+    "user_id": "U10015",
+    "type": "transaction",
+    "amount": 1276,
+    "currency": "NPR",
+    "date": "2024-01-23T11:36:57",
+    "merchant_name": "Subisu",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "success",
+    "properties": {
+      "service_name": "subisu",
+      "ip": "10.14.166.28"
+    }
+  },
+  {
+    "id": "T100132",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 1814,
+    "currency": "NPR",
+    "date": "2024-04-23T01:37:03",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "pending",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.210.92"
+    }
+  },
+  {
+    "id": "T100133",
+    "user_id": "U10006",
+    "type": "transaction",
+    "amount": 2546,
+    "currency": "NPR",
+    "date": "2024-10-24T03:08:33",
+    "merchant_name": "WorldLink Communications",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "partial_refund",
+    "properties": {
+      "service_name": "worldlink_communications",
+      "ip": "10.14.123.254"
+    }
+  },
+  {
+    "id": "T100134",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 1938,
+    "currency": "NPR",
+    "date": "2025-05-10T11:24:15",
+    "merchant_name": "WorldLink Communications",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "canceled",
+    "properties": {
+      "service_name": "worldlink_communications",
+      "ip": "10.14.235.130"
+    }
+  },
+  {
+    "id": "T100135",
+    "user_id": "U10001",
+    "type": "transaction",
+    "amount": 2825,
+    "currency": "NPR",
+    "date": "2025-02-28T13:19:40",
+    "merchant_name": "SastoDeal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "pending",
+    "properties": {
+      "service_name": "sastodeal",
+      "ip": "10.14.37.226"
+    }
+  },
+  {
+    "id": "T100136",
+    "user_id": "U10012",
+    "type": "transaction",
+    "amount": 2667,
+    "currency": "NPR",
+    "date": "2024-11-25T13:41:30",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.128.233"
+    }
+  },
+  {
+    "id": "T100137",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 2029,
+    "currency": "NPR",
+    "date": "2024-03-23T20:09:39",
+    "merchant_name": "Vianet",
+    "description": "Internet bill payment",
+    "category": "Internet",
+    "status": "pending",
+    "properties": {
+      "service_name": "vianet",
+      "ip": "10.14.195.183"
+    }
+  },
+  {
+    "id": "T100138",
+    "user_id": "U10019",
+    "type": "transaction",
+    "amount": 1259,
+    "currency": "NPR",
+    "date": "2024-01-18T00:59:01",
+    "merchant_name": "Smart Cell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "smart_cell",
+      "ip": "10.14.202.140"
+    }
+  },
+  {
+    "id": "T100139",
+    "user_id": "U10001",
+    "type": "transaction",
+    "amount": 2533,
+    "currency": "NPR",
+    "date": "2025-01-20T19:40:03",
+    "merchant_name": "QFX Cinemas",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "canceled",
+    "properties": {
+      "service_name": "qfx_cinemas",
+      "ip": "10.14.117.180"
+    }
+  },
+  {
+    "id": "T100140",
+    "user_id": "U10008",
+    "type": "transaction",
+    "amount": 2593,
+    "currency": "NPR",
+    "date": "2024-07-13T16:01:19",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.70.49"
+    }
+  },
+  {
+    "id": "T100141",
+    "user_id": "U10002",
+    "type": "transaction",
+    "amount": 186,
+    "currency": "NPR",
+    "date": "2025-03-26T04:02:19",
+    "merchant_name": "NTC",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "canceled",
+    "properties": {
+      "service_name": "ntc",
+      "ip": "10.14.67.46"
+    }
+  },
+  {
+    "id": "T100142",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 1751,
+    "currency": "NPR",
+    "date": "2024-05-16T10:10:05",
+    "merchant_name": "Smart Cell",
+    "description": "Mobile Recharge bill payment",
+    "category": "Mobile Recharge",
+    "status": "pending",
+    "properties": {
+      "service_name": "smart_cell",
+      "ip": "10.14.67.187"
+    }
+  },
+  {
+    "id": "T100143",
+    "user_id": "U10017",
+    "type": "transaction",
+    "amount": 723,
+    "currency": "NPR",
+    "date": "2024-07-18T14:16:10",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "failed",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.151.173"
+    }
+  },
+  {
+    "id": "T100144",
+    "user_id": "U10004",
+    "type": "transaction",
+    "amount": 626,
+    "currency": "NPR",
+    "date": "2024-06-24T05:45:45",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.203.187"
+    }
+  },
+  {
+    "id": "T100145",
+    "user_id": "U10003",
+    "type": "transaction",
+    "amount": 1133,
+    "currency": "NPR",
+    "date": "2025-02-20T18:25:58",
+    "merchant_name": "Daraz Nepal",
+    "description": "Shopping bill payment",
+    "category": "Shopping",
+    "status": "success",
+    "properties": {
+      "service_name": "daraz_nepal",
+      "ip": "10.14.232.188"
+    }
+  },
+  {
+    "id": "T100146",
+    "user_id": "U10009",
+    "type": "transaction",
+    "amount": 2665,
+    "currency": "NPR",
+    "date": "2024-10-15T12:46:14",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "success",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.119.241"
+    }
+  },
+  {
+    "id": "T100147",
+    "user_id": "U10001",
+    "type": "transaction",
+    "amount": 2548,
+    "currency": "NPR",
+    "date": "2024-06-20T22:35:01",
+    "merchant_name": "eSewa Travel",
+    "description": "Ticket bill payment",
+    "category": "Ticket",
+    "status": "full_refund",
+    "properties": {
+      "service_name": "esewa_travel",
+      "ip": "10.14.32.237"
+    }
+  },
+  {
+    "id": "T100148",
+    "user_id": "U10010",
+    "type": "transaction",
+    "amount": 527,
+    "currency": "NPR",
+    "date": "2024-04-18T13:37:56",
+    "merchant_name": "Nepal Oil Corporation",
+    "description": "Fuel bill payment",
+    "category": "Fuel",
+    "status": "success",
+    "properties": {
+      "service_name": "nepal_oil_corporation",
+      "ip": "10.14.19.155"
+    }
+  },
+  {
+    "id": "T100149",
+    "user_id": "U10016",
+    "type": "transaction",
+    "amount": 1011,
+    "currency": "NPR",
+    "date": "2025-02-21T12:35:42",
+    "merchant_name": "Nepal Electricity Authority",
+    "description": "Utility bill payment",
+    "category": "Utility",
+    "status": "pending",
+    "properties": {
+      "service_name": "nepal_electricity_authority",
+      "ip": "10.14.198.232"
+    }
+  },
+  {
+    "id": "SP50000",
+    "user_id": "U10012",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 1302,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2024-04-30T00:30:56"
+  },
+  {
+    "id": "SP50001",
+    "user_id": "U10014",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 1807,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2025-01-15T02:05:23"
+  },
+  {
+    "id": "SP50002",
+    "user_id": "U10020",
+    "type": "saved_payment",
+    "template_name": "Shopping - SastoDeal",
+    "payee_name": "SastoDeal Services",
+    "amount": 167,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2024-10-14T19:10:44"
+  },
+  {
+    "id": "SP50003",
+    "user_id": "U10007",
+    "type": "saved_payment",
+    "template_name": "Shopping - SastoDeal",
+    "payee_name": "SastoDeal Services",
+    "amount": 583,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2024-10-08T16:57:28"
+  },
+  {
+    "id": "SP50004",
+    "user_id": "U10004",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 1215,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2025-05-15T20:26:34"
+  },
+  {
+    "id": "SP50005",
+    "user_id": "U10012",
+    "type": "saved_payment",
+    "template_name": "Utility - Khanepani",
+    "payee_name": "Khanepani Services",
+    "amount": 665,
+    "category": "Utility",
+    "description": "Recurring payment template",
+    "created_at": "2024-05-27T10:17:16"
+  },
+  {
+    "id": "SP50006",
+    "user_id": "U10004",
+    "type": "saved_payment",
+    "template_name": "Shopping - Daraz Nepal",
+    "payee_name": "Daraz Nepal Services",
+    "amount": 1457,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2024-06-13T17:56:20"
+  },
+  {
+    "id": "SP50007",
+    "user_id": "U10020",
+    "type": "saved_payment",
+    "template_name": "Utility - Nepal Electricity Authority",
+    "payee_name": "Nepal Electricity Authority Services",
+    "amount": 1711,
+    "category": "Utility",
+    "description": "Recurring payment template",
+    "created_at": "2024-09-16T01:03:40"
+  },
+  {
+    "id": "SP50008",
+    "user_id": "U10008",
+    "type": "saved_payment",
+    "template_name": "Internet - Subisu",
+    "payee_name": "Subisu Services",
+    "amount": 520,
+    "category": "Internet",
+    "description": "Recurring payment template",
+    "created_at": "2024-02-23T06:59:09"
+  },
+  {
+    "id": "SP50009",
+    "user_id": "U10018",
+    "type": "saved_payment",
+    "template_name": "Internet - Subisu",
+    "payee_name": "Subisu Services",
+    "amount": 542,
+    "category": "Internet",
+    "description": "Recurring payment template",
+    "created_at": "2024-06-29T23:24:36"
+  },
+  {
+    "id": "SP50010",
+    "user_id": "U10011",
+    "type": "saved_payment",
+    "template_name": "Internet - Subisu",
+    "payee_name": "Subisu Services",
+    "amount": 105,
+    "category": "Internet",
+    "description": "Recurring payment template",
+    "created_at": "2024-08-03T08:46:39"
+  },
+  {
+    "id": "SP50011",
+    "user_id": "U10005",
+    "type": "saved_payment",
+    "template_name": "Internet - Subisu",
+    "payee_name": "Subisu Services",
+    "amount": 613,
+    "category": "Internet",
+    "description": "Recurring payment template",
+    "created_at": "2024-05-15T12:51:43"
+  },
+  {
+    "id": "SP50012",
+    "user_id": "U10004",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 369,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2024-01-12T13:00:59"
+  },
+  {
+    "id": "SP50013",
+    "user_id": "U10012",
+    "type": "saved_payment",
+    "template_name": "Internet - Subisu",
+    "payee_name": "Subisu Services",
+    "amount": 763,
+    "category": "Internet",
+    "description": "Recurring payment template",
+    "created_at": "2024-01-13T06:10:50"
+  },
+  {
+    "id": "SP50014",
+    "user_id": "U10006",
+    "type": "saved_payment",
+    "template_name": "Mobile Recharge - Ncell",
+    "payee_name": "Ncell Services",
+    "amount": 359,
+    "category": "Mobile Recharge",
+    "description": "Recurring payment template",
+    "created_at": "2024-11-22T23:16:24"
+  },
+  {
+    "id": "SP50015",
+    "user_id": "U10017",
+    "type": "saved_payment",
+    "template_name": "Utility - Nepal Electricity Authority",
+    "payee_name": "Nepal Electricity Authority Services",
+    "amount": 1075,
+    "category": "Utility",
+    "description": "Recurring payment template",
+    "created_at": "2024-12-14T04:27:20"
+  },
+  {
+    "id": "SP50016",
+    "user_id": "U10012",
+    "type": "saved_payment",
+    "template_name": "Ticket - QFX Cinemas",
+    "payee_name": "QFX Cinemas Services",
+    "amount": 1025,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2025-01-26T08:14:02"
+  },
+  {
+    "id": "SP50017",
+    "user_id": "U10008",
+    "type": "saved_payment",
+    "template_name": "Ticket - QFX Cinemas",
+    "payee_name": "QFX Cinemas Services",
+    "amount": 1589,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2025-05-26T18:50:36"
+  },
+  {
+    "id": "SP50018",
+    "user_id": "U10017",
+    "type": "saved_payment",
+    "template_name": "Mobile Recharge - NTC",
+    "payee_name": "NTC Services",
+    "amount": 1417,
+    "category": "Mobile Recharge",
+    "description": "Recurring payment template",
+    "created_at": "2024-01-25T04:41:24"
+  },
+  {
+    "id": "SP50019",
+    "user_id": "U10002",
+    "type": "saved_payment",
+    "template_name": "Shopping - SastoDeal",
+    "payee_name": "SastoDeal Services",
+    "amount": 973,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2024-03-24T20:33:15"
+  },
+  {
+    "id": "SP50020",
+    "user_id": "U10016",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 250,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2024-03-03T18:02:37"
+  },
+  {
+    "id": "SP50021",
+    "user_id": "U10011",
+    "type": "saved_payment",
+    "template_name": "Ticket - QFX Cinemas",
+    "payee_name": "QFX Cinemas Services",
+    "amount": 234,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2024-04-08T00:22:54"
+  },
+  {
+    "id": "SP50022",
+    "user_id": "U10009",
+    "type": "saved_payment",
+    "template_name": "Ticket - eSewa Travel",
+    "payee_name": "eSewa Travel Services",
+    "amount": 880,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2025-04-09T00:11:28"
+  },
+  {
+    "id": "SP50023",
+    "user_id": "U10017",
+    "type": "saved_payment",
+    "template_name": "Mobile Recharge - NTC",
+    "payee_name": "NTC Services",
+    "amount": 1135,
+    "category": "Mobile Recharge",
+    "description": "Recurring payment template",
+    "created_at": "2025-04-15T05:58:24"
+  },
+  {
+    "id": "SP50024",
+    "user_id": "U10014",
+    "type": "saved_payment",
+    "template_name": "Utility - Nepal Electricity Authority",
+    "payee_name": "Nepal Electricity Authority Services",
+    "amount": 1846,
+    "category": "Utility",
+    "description": "Recurring payment template",
+    "created_at": "2025-05-23T12:44:02"
+  },
+  {
+    "id": "SP50025",
+    "user_id": "U10018",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 980,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2024-12-16T17:35:37"
+  },
+  {
+    "id": "SP50026",
+    "user_id": "U10008",
+    "type": "saved_payment",
+    "template_name": "Shopping - SastoDeal",
+    "payee_name": "SastoDeal Services",
+    "amount": 1794,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2024-12-18T05:49:56"
+  },
+  {
+    "id": "SP50027",
+    "user_id": "U10013",
+    "type": "saved_payment",
+    "template_name": "Shopping - Daraz Nepal",
+    "payee_name": "Daraz Nepal Services",
+    "amount": 740,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2024-11-27T11:27:27"
+  },
+  {
+    "id": "SP50028",
+    "user_id": "U10011",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 866,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2024-04-28T13:23:44"
+  },
+  {
+    "id": "SP50029",
+    "user_id": "U10016",
+    "type": "saved_payment",
+    "template_name": "Utility - Nepal Electricity Authority",
+    "payee_name": "Nepal Electricity Authority Services",
+    "amount": 1803,
+    "category": "Utility",
+    "description": "Recurring payment template",
+    "created_at": "2024-03-07T07:18:25"
+  },
+  {
+    "id": "SP50030",
+    "user_id": "U10003",
+    "type": "saved_payment",
+    "template_name": "Shopping - Daraz Nepal",
+    "payee_name": "Daraz Nepal Services",
+    "amount": 1624,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2024-10-16T10:38:27"
+  },
+  {
+    "id": "SP50031",
+    "user_id": "U10005",
+    "type": "saved_payment",
+    "template_name": "Ticket - QFX Cinemas",
+    "payee_name": "QFX Cinemas Services",
+    "amount": 1301,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2025-03-12T04:43:46"
+  },
+  {
+    "id": "SP50032",
+    "user_id": "U10018",
+    "type": "saved_payment",
+    "template_name": "Mobile Recharge - Smart Cell",
+    "payee_name": "Smart Cell Services",
+    "amount": 350,
+    "category": "Mobile Recharge",
+    "description": "Recurring payment template",
+    "created_at": "2024-11-15T02:01:40"
+  },
+  {
+    "id": "SP50033",
+    "user_id": "U10012",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 1877,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2024-02-09T23:01:27"
+  },
+  {
+    "id": "SP50034",
+    "user_id": "U10010",
+    "type": "saved_payment",
+    "template_name": "Ticket - eSewa Travel",
+    "payee_name": "eSewa Travel Services",
+    "amount": 820,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2024-03-21T11:15:16"
+  },
+  {
+    "id": "SP50035",
+    "user_id": "U10019",
+    "type": "saved_payment",
+    "template_name": "Ticket - QFX Cinemas",
+    "payee_name": "QFX Cinemas Services",
+    "amount": 416,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2025-05-25T02:27:07"
+  },
+  {
+    "id": "SP50036",
+    "user_id": "U10016",
+    "type": "saved_payment",
+    "template_name": "Internet - WorldLink Communications",
+    "payee_name": "WorldLink Communications Services",
+    "amount": 817,
+    "category": "Internet",
+    "description": "Recurring payment template",
+    "created_at": "2025-03-08T01:32:24"
+  },
+  {
+    "id": "SP50037",
+    "user_id": "U10012",
+    "type": "saved_payment",
+    "template_name": "Utility - Khanepani",
+    "payee_name": "Khanepani Services",
+    "amount": 1275,
+    "category": "Utility",
+    "description": "Recurring payment template",
+    "created_at": "2024-06-24T15:54:39"
+  },
+  {
+    "id": "SP50038",
+    "user_id": "U10014",
+    "type": "saved_payment",
+    "template_name": "Ticket - QFX Cinemas",
+    "payee_name": "QFX Cinemas Services",
+    "amount": 1347,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2025-05-25T22:51:46"
+  },
+  {
+    "id": "SP50039",
+    "user_id": "U10009",
+    "type": "saved_payment",
+    "template_name": "Utility - Nepal Electricity Authority",
+    "payee_name": "Nepal Electricity Authority Services",
+    "amount": 659,
+    "category": "Utility",
+    "description": "Recurring payment template",
+    "created_at": "2024-08-27T23:53:31"
+  },
+  {
+    "id": "SP50040",
+    "user_id": "U10011",
+    "type": "saved_payment",
+    "template_name": "Mobile Recharge - Ncell",
+    "payee_name": "Ncell Services",
+    "amount": 471,
+    "category": "Mobile Recharge",
+    "description": "Recurring payment template",
+    "created_at": "2024-04-21T06:24:04"
+  },
+  {
+    "id": "SP50041",
+    "user_id": "U10019",
+    "type": "saved_payment",
+    "template_name": "Fuel - Nepal Oil Corporation",
+    "payee_name": "Nepal Oil Corporation Services",
+    "amount": 242,
+    "category": "Fuel",
+    "description": "Recurring payment template",
+    "created_at": "2024-04-20T04:44:06"
+  },
+  {
+    "id": "SP50042",
+    "user_id": "U10001",
+    "type": "saved_payment",
+    "template_name": "Utility - Nepal Electricity Authority",
+    "payee_name": "Nepal Electricity Authority Services",
+    "amount": 870,
+    "category": "Utility",
+    "description": "Recurring payment template",
+    "created_at": "2024-11-22T02:14:41"
+  },
+  {
+    "id": "SP50043",
+    "user_id": "U10015",
+    "type": "saved_payment",
+    "template_name": "Mobile Recharge - Ncell",
+    "payee_name": "Ncell Services",
+    "amount": 857,
+    "category": "Mobile Recharge",
+    "description": "Recurring payment template",
+    "created_at": "2024-08-30T01:20:29"
+  },
+  {
+    "id": "SP50044",
+    "user_id": "U10011",
+    "type": "saved_payment",
+    "template_name": "Ticket - QFX Cinemas",
+    "payee_name": "QFX Cinemas Services",
+    "amount": 1909,
+    "category": "Ticket",
+    "description": "Recurring payment template",
+    "created_at": "2024-02-10T20:41:58"
+  },
+  {
+    "id": "SP50045",
+    "user_id": "U10005",
+    "type": "saved_payment",
+    "template_name": "Internet - Subisu",
+    "payee_name": "Subisu Services",
+    "amount": 201,
+    "category": "Internet",
+    "description": "Recurring payment template",
+    "created_at": "2024-03-04T08:47:23"
+  },
+  {
+    "id": "SP50046",
+    "user_id": "U10009",
+    "type": "saved_payment",
+    "template_name": "Shopping - SastoDeal",
+    "payee_name": "SastoDeal Services",
+    "amount": 1094,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2025-04-16T12:43:01"
+  },
+  {
+    "id": "SP50047",
+    "user_id": "U10015",
+    "type": "saved_payment",
+    "template_name": "Shopping - SastoDeal",
+    "payee_name": "SastoDeal Services",
+    "amount": 541,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2025-02-01T22:49:38"
+  },
+  {
+    "id": "SP50048",
+    "user_id": "U10004",
+    "type": "saved_payment",
+    "template_name": "Mobile Recharge - NTC",
+    "payee_name": "NTC Services",
+    "amount": 327,
+    "category": "Mobile Recharge",
+    "description": "Recurring payment template",
+    "created_at": "2024-08-08T00:05:48"
+  },
+  {
+    "id": "SP50049",
+    "user_id": "U10019",
+    "type": "saved_payment",
+    "template_name": "Shopping - SastoDeal",
+    "payee_name": "SastoDeal Services",
+    "amount": 193,
+    "category": "Shopping",
+    "description": "Recurring payment template",
+    "created_at": "2024-06-20T06:45:41"
+  },
+  {
+    "id": "SVC1000",
+    "type": "service",
+    "title": "How to pay electricity bill?",
+    "content": "Go to Utilities > Select NEA > Enter SC Number and amount.",
+    "category": "Utility",
+    "language": "en",
+    "updated_at": "2025-06-13T12:54:16.009119"
+  },
+  {
+    "id": "SVC1001",
+    "type": "service",
+    "title": "How to recharge mobile?",
+    "content": "Select Mobile Recharge > Choose operator > Enter number and amount.",
+    "category": "Mobile Recharge",
+    "language": "en",
+    "updated_at": "2025-06-08T12:54:16.009134"
+  },
+  {
+    "id": "SVC1002",
+    "type": "service",
+    "title": "How to buy internet pack?",
+    "content": "Navigate to Internet > Select provider > Enter username and amount.",
+    "category": "Internet",
+    "language": "en",
+    "updated_at": "2025-06-03T12:54:16.009138"
+  },
+  {
+    "id": "SVC1003",
+    "type": "service",
+    "title": "How to pay water bill?",
+    "content": "Go to Utilities > Select Khanepani > Enter customer ID and pay.",
+    "category": "Utility",
+    "language": "en",
+    "updated_at": "2025-05-29T12:54:16.009141"
+  },
+  {
+    "id": "SVC1004",
+    "type": "service",
+    "title": "How to book a movie ticket?",
+    "content": "Go to Tickets > Select QFX Cinemas > Choose show and seat.",
+    "category": "Ticket",
+    "language": "en",
+    "updated_at": "2025-05-24T12:54:16.009144"
+  },
+  {
+    "id": "SVC1005",
+    "type": "service",
+    "title": "How to pay for online shopping?",
+    "content": "Go to Payments > Enter Daraz invoice ID > Confirm amount.",
+    "category": "Shopping",
+    "language": "en",
+    "updated_at": "2025-05-19T12:54:16.009147"
+  },
+  {
+    "id": "SVC1006",
+    "type": "service",
+    "title": "How to recharge Ncell?",
+    "content": "Go to Mobile Recharge > Select Ncell > Enter number and confirm.",
+    "category": "Mobile Recharge",
+    "language": "en",
+    "updated_at": "2025-05-14T12:54:16.009150"
+  },
+  {
+    "id": "SVC1007",
+    "type": "service",
+    "title": "How to top-up Smart Cell?",
+    "content": "Choose Mobile Recharge > Smart Cell > Enter number and amount.",
+    "category": "Mobile Recharge",
+    "language": "en",
+    "updated_at": "2025-05-09T12:54:16.009154"
+  },
+  {
+    "id": "SVC1008",
+    "type": "service",
+    "title": "Can I pay Subisu bills?",
+    "content": "Yes, go to Internet section and choose Subisu.",
+    "category": "Internet",
+    "language": "en",
+    "updated_at": "2025-05-04T12:54:16.009158"
+  },
+  {
+    "id": "SVC1009",
+    "type": "service",
+    "title": "Where to check transaction history?",
+    "content": "Open Transaction tab in your profile menu.",
+    "category": "General",
+    "language": "en",
+    "updated_at": "2025-04-29T12:54:16.009162"
+  },
+  {
+    "id": "SVC1010",
+    "type": "service",
+    "title": "Is eSewa safe?",
+    "content": "Yes, it uses encrypted and secure transactions.",
+    "category": "General",
+    "language": "en",
+    "updated_at": "2025-04-24T12:54:16.009164"
+  },
+  {
+    "id": "SVC1011",
+    "type": "service",
+    "title": "How to link bank account?",
+    "content": "Go to Bank Link > Enter bank info > Verify with OTP.",
+    "category": "Banking",
+    "language": "en",
+    "updated_at": "2025-04-19T12:54:16.009167"
+  },
+  {
+    "id": "SVC1012",
+    "type": "service",
+    "title": "Can I pay flight tickets?",
+    "content": "Yes, go to Travel > Flight Booking.",
+    "category": "Ticket",
+    "language": "en",
+    "updated_at": "2025-04-14T12:54:16.009170"
+  },
+  {
+    "id": "SVC1013",
+    "type": "service",
+    "title": "How to cancel payment?",
+    "content": "Open Transaction > Tap the payment > Choose cancel.",
+    "category": "General",
+    "language": "en",
+    "updated_at": "2025-04-09T12:54:16.009173"
+  },
+  {
+    "id": "SVC1014",
+    "type": "service",
+    "title": "What is eSewa load?",
+    "content": "It means adding funds to your eSewa wallet.",
+    "category": "General",
+    "language": "en",
+    "updated_at": "2025-04-04T12:54:16.009176"
+  },
+  {
+    "id": "SVC1015",
+    "type": "service",
+    "title": "How to set auto-pay?",
+    "content": "Go to Saved Templates > Enable auto-pay toggle.",
+    "category": "General",
+    "language": "en",
+    "updated_at": "2025-03-30T12:54:16.009178"
+  },
+  {
+    "id": "SVC1016",
+    "type": "service",
+    "title": "How to use QR pay?",
+    "content": "Open QR Scan > Scan merchant QR > Confirm payment.",
+    "category": "General",
+    "language": "en",
+    "updated_at": "2025-03-25T12:54:16.009181"
+  },
+  {
+    "id": "SVC1017",
+    "type": "service",
+    "title": "Can I pay fuel bills?",
+    "content": "Yes, select Nepal Oil Corporation under Utility.",
+    "category": "Utility",
+    "language": "en",
+    "updated_at": "2025-03-20T12:54:16.009184"
+  },
+  {
+    "id": "SVC1018",
+    "type": "service",
+    "title": "What happens after failed payment?",
+    "content": "Amount is refunded within 3 business days.",
+    "category": "General",
+    "language": "en",
+    "updated_at": "2025-03-15T12:54:16.009187"
+  },
+  {
+    "id": "SVC1019",
+    "type": "service",
+    "title": "How to contact support?",
+    "content": "Tap Help Center > Live Chat or call 1234.",
+    "category": "General",
+    "language": "en",
+    "updated_at": "2025-03-10T12:54:16.009190"
+  },
+  {
+    "id": "P90000",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 Smart Cell",
+    "price": 50,
+    "description": "Recharge Card \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "Ncell",
+    "updated_at": "2024-08-22T02:51:50"
+  },
+  {
+    "id": "P90001",
+    "type": "product",
+    "product_name": "Top-up \u2013 Ncell",
+    "price": 200,
+    "description": "Top-up \u2013 Ncell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "NTC",
+    "updated_at": "2024-04-03T04:40:13"
+  },
+  {
+    "id": "P90002",
+    "type": "product",
+    "product_name": "Top-up \u2013 NTC",
+    "price": 500,
+    "description": "Top-up \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "Ncell",
+    "updated_at": "2024-10-22T07:34:49"
+  },
+  {
+    "id": "P90003",
+    "type": "product",
+    "product_name": "Subscription \u2013 Smart Cell",
+    "price": 100,
+    "description": "Subscription \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Ncell",
+    "updated_at": "2024-11-04T09:56:35"
+  },
+  {
+    "id": "P90004",
+    "type": "product",
+    "product_name": "Subscription \u2013 Ncell",
+    "price": 500,
+    "description": "Subscription \u2013 Ncell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "NTC",
+    "updated_at": "2024-03-01T11:27:51"
+  },
+  {
+    "id": "P90005",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 Smart Cell",
+    "price": 500,
+    "description": "Recharge Card \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Smart Cell",
+    "updated_at": "2025-05-12T05:06:20"
+  },
+  {
+    "id": "P90006",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 NTC",
+    "price": 50,
+    "description": "Recharge Card \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Ncell",
+    "updated_at": "2024-09-09T06:07:03"
+  },
+  {
+    "id": "P90007",
+    "type": "product",
+    "product_name": "Top-up \u2013 Smart Cell",
+    "price": 500,
+    "description": "Top-up \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Ncell",
+    "updated_at": "2024-12-05T04:53:51"
+  },
+  {
+    "id": "P90008",
+    "type": "product",
+    "product_name": "Top-up \u2013 Ncell",
+    "price": 500,
+    "description": "Top-up \u2013 Ncell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Smart Cell",
+    "updated_at": "2024-03-02T02:05:16"
+  },
+  {
+    "id": "P90009",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 NTC",
+    "price": 200,
+    "description": "Recharge Card \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "NTC",
+    "updated_at": "2024-05-10T14:13:15"
+  },
+  {
+    "id": "P90010",
+    "type": "product",
+    "product_name": "Top-up \u2013 Smart Cell",
+    "price": 50,
+    "description": "Top-up \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "NTC",
+    "updated_at": "2024-09-29T16:58:24"
+  },
+  {
+    "id": "P90011",
+    "type": "product",
+    "product_name": "Subscription \u2013 Smart Cell",
+    "price": 100,
+    "description": "Subscription \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "Ncell",
+    "updated_at": "2024-04-23T17:55:05"
+  },
+  {
+    "id": "P90012",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 Ncell",
+    "price": 100,
+    "description": "Recharge Card \u2013 Ncell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "Smart Cell",
+    "updated_at": "2024-02-28T12:41:12"
+  },
+  {
+    "id": "P90013",
+    "type": "product",
+    "product_name": "Top-up \u2013 Smart Cell",
+    "price": 500,
+    "description": "Top-up \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Smart Cell",
+    "updated_at": "2025-03-26T02:04:05"
+  },
+  {
+    "id": "P90014",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 Smart Cell",
+    "price": 1000,
+    "description": "Recharge Card \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Smart Cell",
+    "updated_at": "2024-09-02T13:15:22"
+  },
+  {
+    "id": "P90015",
+    "type": "product",
+    "product_name": "Top-up \u2013 NTC",
+    "price": 50,
+    "description": "Top-up \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "NTC",
+    "updated_at": "2025-05-05T09:52:18"
+  },
+  {
+    "id": "P90016",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 NTC",
+    "price": 1000,
+    "description": "Recharge Card \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "NTC",
+    "updated_at": "2025-01-29T01:26:42"
+  },
+  {
+    "id": "P90017",
+    "type": "product",
+    "product_name": "Top-up \u2013 NTC",
+    "price": 500,
+    "description": "Top-up \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Ncell",
+    "updated_at": "2024-02-14T04:30:26"
+  },
+  {
+    "id": "P90018",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 NTC",
+    "price": 50,
+    "description": "Recharge Card \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "Smart Cell",
+    "updated_at": "2025-04-06T10:27:01"
+  },
+  {
+    "id": "P90019",
+    "type": "product",
+    "product_name": "Subscription \u2013 NTC",
+    "price": 500,
+    "description": "Subscription \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "NTC",
+    "updated_at": "2025-03-20T00:27:10"
+  },
+  {
+    "id": "P90020",
+    "type": "product",
+    "product_name": "Subscription \u2013 Ncell",
+    "price": 200,
+    "description": "Subscription \u2013 Ncell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Smart Cell",
+    "updated_at": "2024-04-27T04:15:15"
+  },
+  {
+    "id": "P90021",
+    "type": "product",
+    "product_name": "Top-up \u2013 NTC",
+    "price": 50,
+    "description": "Top-up \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Smart Cell",
+    "updated_at": "2024-03-06T12:00:32"
+  },
+  {
+    "id": "P90022",
+    "type": "product",
+    "product_name": "Subscription \u2013 Smart Cell",
+    "price": 100,
+    "description": "Subscription \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "Ncell",
+    "updated_at": "2024-12-06T00:24:20"
+  },
+  {
+    "id": "P90023",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 Smart Cell",
+    "price": 1000,
+    "description": "Recharge Card \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "NTC",
+    "updated_at": "2024-10-16T14:27:52"
+  },
+  {
+    "id": "P90024",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 NTC",
+    "price": 500,
+    "description": "Recharge Card \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Smart Cell",
+    "updated_at": "2025-04-09T09:24:01"
+  },
+  {
+    "id": "P90025",
+    "type": "product",
+    "product_name": "Top-up \u2013 Smart Cell",
+    "price": 200,
+    "description": "Top-up \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "NTC",
+    "updated_at": "2024-03-14T09:43:06"
+  },
+  {
+    "id": "P90026",
+    "type": "product",
+    "product_name": "Subscription \u2013 Smart Cell",
+    "price": 500,
+    "description": "Subscription \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "NTC",
+    "updated_at": "2025-05-24T23:14:29"
+  },
+  {
+    "id": "P90027",
+    "type": "product",
+    "product_name": "Subscription \u2013 Ncell",
+    "price": 200,
+    "description": "Subscription \u2013 Ncell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "Smart Cell",
+    "updated_at": "2024-04-19T20:24:57"
+  },
+  {
+    "id": "P90028",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 NTC",
+    "price": 500,
+    "description": "Recharge Card \u2013 NTC available instantly through eSewa.",
+    "category": "Recharge",
+    "available": true,
+    "vendor": "Smart Cell",
+    "updated_at": "2024-03-06T19:16:36"
+  },
+  {
+    "id": "P90029",
+    "type": "product",
+    "product_name": "Recharge Card \u2013 Smart Cell",
+    "price": 500,
+    "description": "Recharge Card \u2013 Smart Cell available instantly through eSewa.",
+    "category": "Recharge",
+    "available": false,
+    "vendor": "Ncell",
+    "updated_at": "2025-02-12T20:40:59"
+  }
+]

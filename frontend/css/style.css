@@ -1,0 +1,185 @@
+:root {
+    --esewa-green: #00B140;
+    --esewa-trust-blue: #2563EB;
+    --esewa-product-teal: #0891B2;
+    --esewa-help-green: #4ADE80;
+    --esewa-dark: #1F2937;
+    --esewa-light: #F8F9FA;
+    --esewa-card: #FFFFFF;
+    --esewa-border: #6B7280;
+    --esewa-success: #4ADE80;
+    --esewa-text: #1F2937;
+    --esewa-text-light: #6B7280;
+    --esewa-input-focus: rgba(0, 177, 64, 0.2);
+}
+
+body {
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: var(--esewa-text);
+}
+
+.esewa-header {
+    background: linear-gradient(135deg, var(--esewa-green), #00C148);
+    padding: 1.5rem 0;
+    border-radius: 0 0 12px 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+    color: white;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.esewa-card {
+    background: var(--esewa-card);
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    border: 1px solid var(--esewa-border);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+/* ========== Unified Input Styles ========== */
+.stTextInput>div>div>input,
+.stTextArea>div>textarea,
+.stSelectbox>div>select,
+.stNumberInput>div>input {
+    border-radius: 8px !important;
+    border: 2px solid var(--esewa-border) !important;
+    padding: 12px 16px !important;
+    font-size: 1rem !important;
+    transition: all 0.2s ease !important;
+    min-height: 48px !important;
+}
+
+.stTextInput>div>div>input:focus,
+.stTextArea>div>textarea:focus,
+.stSelectbox>div>select:focus,
+.stNumberInput>div>input:focus {
+    border-color: var(--esewa-green) !important;
+    box-shadow: 0 0 0 4px var(--esewa-input-focus) !important;
+    outline: none;
+}
+
+/* ========== Unified Button Styles ========== */
+button:not(.stDownloadButton) {
+    border-radius: 8px !important;
+    font-weight: 500 !important;
+    transition: all 0.2s ease !important;
+    border: 2px solid transparent !important;
+    padding: 10px 16px !important;
+    min-height: 48px !important;
+}
+
+.primary-btn {
+    background: var(--esewa-green) !important;
+    border: none !important;
+    color: white !important;
+    padding: 10px 24px !important;
+}
+
+.primary-btn:hover {
+    background: #009636 !important;
+    box-shadow: 0 2px 8px rgba(0,177,64,0.3);
+}
+
+.secondary-btn {
+    background: white !important;
+    color: var(--esewa-green) !important;
+    border: 2px solid var(--esewa-green) !important;
+}
+
+button[kind="secondary"] {
+    background: white !important;
+    border: 2px solid var(--esewa-green) !important;
+    color: var(--esewa-green) !important;
+    font-size: 1.05rem !important;
+    font-weight: 600 !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    transition: all 0.2s ease-in-out;
+}
+
+button[kind="secondary"]:hover {
+    background: var(--esewa-green) !important;
+    color: white !important;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+}
+
+/* ========== UPDATED RESULT CARD STYLES ========== */
+.result-card {
+    background: var(--esewa-card);
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin-bottom: 1.25rem;
+    border-left: 4px solid var(--esewa-green);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+}
+
+.result-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+    border-left: 4px solid #00C148;
+}
+
+.result-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--esewa-border);
+}
+
+.result-icon {
+    font-size: 1.8rem;
+    margin-right: 0.75rem;
+    color: var(--esewa-green);
+}
+
+.result-title {
+    font-weight: 600;
+    font-size: 1.2rem;
+    flex-grow: 1;
+}
+
+.result-type {
+    background: rgba(0, 177, 64, 0.1);
+    color: var(--esewa-green);
+    padding: 0.35rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.result-content {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1rem;
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+}
+
+.result-column {
+    flex: 1;
+    min-width: 200px; /* Prevent columns from becoming too narrow */
+}
+
+/* NEW: Full-width content section */
+.result-fullwidth {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.service-content {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    border: 1px solid #eee;
+    white-space: pre-wrap; /* Preserve formatting */
+    overflow: auto;
+    max-height: 300px; /* Scrollable for long content */
+}

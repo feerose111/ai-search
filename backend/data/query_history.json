@@ -1,0 +1,1235 @@
+[
+  {
+    "timestamp": "2025-07-05T10:32:47.104075",
+    "raw_query": "esewa transaction",
+    "parsed_query": {
+      "raw_query": "esewa transaction",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-07-05T08:34:32.336201",
+    "raw_query": "khanepani",
+    "parsed_query": {
+      "raw_query": "khanepani",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-28T10:30:01.218683",
+    "raw_query": "Show saved payments above Rs. 500",
+    "parsed_query": {
+      "raw_query": "Show saved payments above Rs. 500",
+      "intent": "transaction",
+      "amount": 500.0,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-28T04:36:00.648651",
+    "raw_query": "Show saved payments above Rs. 500",
+    "parsed_query": {
+      "raw_query": "Show saved payments above Rs. 500",
+      "intent": "transaction",
+      "amount": 500.0,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-28T04:35:36.047871",
+    "raw_query": "Find all transactions from March",
+    "parsed_query": {
+      "raw_query": "Find all transactions from March",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-28T04:35:13.842641",
+    "raw_query": "Show purchases and services from last month",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from last month",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-28T04:34:50.886369",
+    "raw_query": "What products did I purchase ",
+    "parsed_query": {
+      "raw_query": "What products did I purchase ",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-28T04:34:10.702833",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-24T17:34:43.764736",
+    "raw_query": "esewa transaction on may",
+    "parsed_query": {
+      "raw_query": "esewa transaction on may",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-24T14:07:05.732170",
+    "raw_query": "ncell topup price",
+    "parsed_query": {
+      "raw_query": "ncell topup price",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T16:04:26.267382",
+    "raw_query": "khanepani bill march",
+    "parsed_query": {
+      "raw_query": "khanepani bill march",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:41:15.254607",
+    "raw_query": "esewa transaction on may",
+    "parsed_query": {
+      "raw_query": "esewa transaction on may",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:39:15.136226",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:38:07.095499",
+    "raw_query": "electricity bill of march",
+    "parsed_query": {
+      "raw_query": "electricity bill of march",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:36:34.645397",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:33:34.560024",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:28:46.226384",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:27:24.792695",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:26:34.292384",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:21:58.157634",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:19:02.476578",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T13:05:35.253416",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T12:55:39.400596",
+    "raw_query": "esewa account",
+    "parsed_query": {
+      "raw_query": "esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T12:05:23.718299",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T12:01:50.113476",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T11:55:51.693144",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T11:51:18.934459",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T10:49:02.701440",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T10:36:59.408600",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T10:29:21.029231",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T10:29:20.812620",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T10:28:28.428857",
+    "raw_query": "how to open esewa account",
+    "parsed_query": {
+      "raw_query": "how to open esewa account",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T10:28:10.061189",
+    "raw_query": "movie ticket",
+    "parsed_query": {
+      "raw_query": "movie ticket",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T09:34:15.441622",
+    "raw_query": "fuel bill less than 1000",
+    "parsed_query": {
+      "raw_query": "fuel bill less than 1000",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": {
+        "operator": "<",
+        "amount": 1000.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T09:33:24.060257",
+    "raw_query": "movie ticket price",
+    "parsed_query": {
+      "raw_query": "movie ticket price",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T09:19:30.591609",
+    "raw_query": "movie ticket",
+    "parsed_query": {
+      "raw_query": "movie ticket",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T09:06:23.858794",
+    "raw_query": "khanepani ko bill",
+    "parsed_query": {
+      "raw_query": "khanepani ko bill",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T07:38:17.244292",
+    "raw_query": "movie ticket price",
+    "parsed_query": {
+      "raw_query": "movie ticket price",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-23T07:33:40.570352",
+    "raw_query": "movie ticket price ",
+    "parsed_query": {
+      "raw_query": "movie ticket price ",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T17:10:45.849675",
+    "raw_query": "khanepani ko bill",
+    "parsed_query": {
+      "raw_query": "khanepani ko bill",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T17:09:12.973023",
+    "raw_query": "khanepani ko bill",
+    "parsed_query": {
+      "raw_query": "khanepani ko bill",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T16:57:50.101286",
+    "raw_query": "khanepani ko bill",
+    "parsed_query": {
+      "raw_query": "khanepani ko bill",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T16:55:21.343764",
+    "raw_query": "esewa transaction",
+    "parsed_query": {
+      "raw_query": "esewa transaction",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T12:09:04.489106",
+    "raw_query": "khanepani bill  more than 1500 rs",
+    "parsed_query": {
+      "raw_query": "khanepani bill  more than 1500 rs",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 1500.0
+      },
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T12:08:36.025343",
+    "raw_query": "khanepani bill 200",
+    "parsed_query": {
+      "raw_query": "khanepani bill 200",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T12:07:32.116917",
+    "raw_query": "khanepani",
+    "parsed_query": {
+      "raw_query": "khanepani",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T12:07:32.046602",
+    "raw_query": "khanepani ",
+    "parsed_query": {
+      "raw_query": "khanepani ",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T12:07:28.520632",
+    "raw_query": "khanepani bill 200",
+    "parsed_query": {
+      "raw_query": "khanepani bill 200",
+      "intent": "services",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T07:07:33.308208",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-22T06:51:57.463795",
+    "raw_query": "example",
+    "parsed_query": {
+      "raw_query": "example",
+      "intent": "general",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T06:49:43.639194",
+    "raw_query": "List all services after January 1st, 2025",
+    "parsed_query": {
+      "raw_query": "List all services after January 1st, 2025",
+      "intent": "service",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": ">",
+        "date": "2025-01-01"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-22T06:35:28.865957",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-22T06:18:23.102758",
+    "raw_query": "example",
+    "parsed_query": {
+      "raw_query": "example",
+      "intent": "general",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-22T05:02:17.266041",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-22T04:52:42.645646",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-22T04:52:38.297356",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-22T04:47:47.624935",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T13:32:27.062040",
+    "raw_query": "What products did I purchase",
+    "parsed_query": {
+      "raw_query": "What products did I purchase",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-21T13:31:53.371435",
+    "raw_query": "What products did I purchase",
+    "parsed_query": {
+      "raw_query": "What products did I purchase",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-21T13:31:18.072974",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T12:19:42.117190",
+    "raw_query": "Show purchases and services from last quarter",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from last quarter",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-21T10:19:27.331328",
+    "raw_query": "Find my spendings on movies Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Find my spendings on movies Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T10:07:58.083924",
+    "raw_query": "Find my spendings on movies Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Find my spendings on movies Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T10:07:24.268149",
+    "raw_query": "Find saved payment for movies Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Find saved payment for movies Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T10:06:50.560261",
+    "raw_query": "Find saved payment for Netflix subscription Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Find saved payment for Netflix subscription Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T10:06:21.134307",
+    "raw_query": "merchant amazon Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "merchant amazon Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T10:05:39.050958",
+    "raw_query": "Get all data related to phone or laptop purchases Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Get all data related to phone or laptop purchases Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T10:04:51.446548",
+    "raw_query": "Show purchases and services from last quarter Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Show purchases and services from last quarter Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:56:49.731781",
+    "raw_query": "Show me phones I purchased in the last 6 months Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Show me phones I purchased in the last 6 months Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:56:26.951528",
+    "raw_query": "amazon Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "amazon Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:55:39.822329",
+    "raw_query": "What payments did I make to Amazon this year? Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "What payments did I make to Amazon this year? Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:54:43.860515",
+    "raw_query": "Send money to saved payee John Doe Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Send money to saved payee John Doe Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:53:31.116631",
+    "raw_query": "Show me electricity bill payments over 500 from last month Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:31:41.831909",
+    "raw_query": "Monthly electricity bill Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Monthly electricity bill Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:30:58.475531",
+    "raw_query": "give me user id Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "give me user id Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:29:31.098428",
+    "raw_query": "Show me electricity bill payment Type: Payment between 2023-06-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payment Type: Payment between 2023-06-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2023-06-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:29:10.580380",
+    "raw_query": "Show me electricity bill payment Type: Payment between 2025-05-01 and 2025-06-19",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payment Type: Payment between 2025-05-01 and 2025-06-19",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-06-19"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:28:37.024760",
+    "raw_query": "Show me electricity bill payment",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payment",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-21T09:28:15.723776",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T08:27:51.975631",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T08:21:15.012782",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T07:44:30.786242",
+    "raw_query": "What products did I purchase",
+    "parsed_query": {
+      "raw_query": "What products did I purchase",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-21T07:43:39.464231",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-21T07:23:47.655212",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500
+      },
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-20T10:37:06.323274",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-20T10:36:43.072987",
+    "raw_query": "What products did I purchase",
+    "parsed_query": {
+      "raw_query": "What products did I purchase",
+      "intent": "product",
+      "amount": null,
+      "amount_filter": null,
+      "date": null,
+      "date_filter": null
+    }
+  },
+  {
+    "timestamp": "2025-06-20T10:35:51.111398",
+    "raw_query": "Show me electricity bill payments over 500 from last month",
+    "parsed_query": {
+      "raw_query": "Show me electricity bill payments over 500 from last month",
+      "intent": "transaction",
+      "amount": null,
+      "amount_filter": {
+        "operator": ">",
+        "amount": 500.0
+      },
+      "date": null,
+      "date_filter": {
+        "operator": "between",
+        "start": "2025-05-01",
+        "end": "2025-05-31"
+      }
+    }
+  }
+]

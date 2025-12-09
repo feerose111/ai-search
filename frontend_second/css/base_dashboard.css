@@ -1,0 +1,353 @@
+/* ========== CSS VARIABLES ========== */
+:root {
+    --esewa-green: #00B140;
+    --esewa-trust-blue: #2563EB;
+    --esewa-product-teal: #0891B2;
+    --esewa-help-green: #4ADE80;
+    --esewa-dark: #1F2937;
+    --esewa-light: #F8F9FA;
+    --esewa-card: #FFFFFF;
+    --esewa-border: #6B7280;
+    --esewa-success: #4ADE80;
+    --esewa-warning: #ffc107;
+    --esewa-error: #dc3545;
+    --esewa-info: #17a2b8;
+    --esewa-text: #1F2937;
+    --esewa-text-light: #6B7280;
+    --esewa-input-focus: rgba(0, 177, 64, 0.2);
+    --esewa-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    --esewa-shadow-hover: 0 6px 15px rgba(0,0,0,0.1);
+    --esewa-radius: 12px;
+    --esewa-radius-sm: 8px;
+    --esewa-transition: all 0.3s ease;
+}
+
+/* ========== BASE STYLES ========== */
+body {
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: var(--esewa-text);
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* ========== HEADER STYLES ========== */
+.esewa-header {
+    background: linear-gradient(135deg, var(--esewa-green) 0%, #00C148 100%);
+    padding: 2rem;
+    border-radius: var(--esewa-radius);
+    margin-bottom: 2rem;
+    box-shadow: var(--esewa-shadow);
+}
+
+.header-content h1 {
+    color: white;
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.header-content p {
+    color: rgba(255,255,255,0.9);
+    margin: 0.5rem 0 0 0;
+    font-size: 1.1rem;
+}
+
+/* ========== CARD STYLES ========== */
+.esewa-card {
+    background: var(--esewa-card);
+    border-radius: var(--esewa-radius);
+    box-shadow: var(--esewa-shadow);
+    border: 1px solid var(--esewa-border);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    transition: var(--esewa-transition);
+}
+
+.esewa-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--esewa-shadow-hover);
+}
+
+.stats-card {
+    background: var(--esewa-card);
+    border-radius: var(--esewa-radius);
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    border-left: 4px solid var(--esewa-green);
+    box-shadow: var(--esewa-shadow);
+    transition: var(--esewa-transition);
+}
+
+.stats-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--esewa-shadow-hover);
+}
+
+/* ========== BUTTON STYLES ========== */
+.esewa-button {
+    background: linear-gradient(135deg, var(--esewa-green) 0%, #00C148 100%);
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: var(--esewa-radius-sm);
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--esewa-transition);
+    font-size: 1rem;
+}
+
+.esewa-button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 177, 64, 0.3);
+    background: linear-gradient(135deg, #00C148 0%, var(--esewa-green) 100%);
+}
+
+.esewa-button-secondary {
+    background: var(--esewa-light);
+    color: var(--esewa-text);
+    border: 1px solid var(--esewa-border);
+}
+
+.esewa-button-secondary:hover {
+    background: #e9ecef;
+    border-color: var(--esewa-green);
+}
+
+.esewa-button-danger {
+    background: linear-gradient(135deg, var(--esewa-error) 0%, #c82333 100%);
+}
+
+.esewa-button-success {
+    background: linear-gradient(135deg, var(--esewa-success) 0%, #218838 100%);
+}
+
+/* ========== STATUS STYLES ========== */
+.status-success {
+    background: #d4edda;
+    border: 1px solid #c3e6cb;
+    border-left: 4px solid var(--esewa-success);
+    color: #155724;
+    padding: 1rem;
+    border-radius: var(--esewa-radius-sm);
+    margin: 1rem 0;
+}
+
+.status-warning {
+    background: #fff3cd;
+    border: 1px solid #ffeaa7;
+    border-left: 4px solid var(--esewa-warning);
+    color: #856404;
+    padding: 1rem;
+    border-radius: var(--esewa-radius-sm);
+    margin: 1rem 0;
+}
+
+.status-error {
+    background: #f8d7da;
+    border: 1px solid #f5c6cb;
+    border-left: 4px solid var(--esewa-error);
+    color: #721c24;
+    padding: 1rem;
+    border-radius: var(--esewa-radius-sm);
+    margin: 1rem 0;
+}
+
+.status-info {
+    background: #d1ecf1;
+    border: 1px solid #bee5eb;
+    border-left: 4px solid var(--esewa-info);
+    color: #0c5460;
+    padding: 1rem;
+    border-radius: var(--esewa-radius-sm);
+    margin: 1rem 0;
+}
+
+/* ========== METRIC STYLES ========== */
+.metric-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.metric-card {
+    background: var(--esewa-card);
+    padding: 1.5rem;
+    border-radius: var(--esewa-radius);
+    box-shadow: var(--esewa-shadow);
+    border-left: 4px solid var(--esewa-green);
+    transition: var(--esewa-transition);
+}
+
+.metric-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--esewa-shadow-hover);
+}
+
+.metric-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--esewa-green);
+    margin: 0;
+}
+
+.metric-label {
+    font-size: 0.9rem;
+    color: var(--esewa-text-light);
+    margin: 0.5rem 0 0 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* ========== FORM STYLES ========== */
+.esewa-form {
+    background: var(--esewa-card);
+    padding: 2rem;
+    border-radius: var(--esewa-radius);
+    box-shadow: var(--esewa-shadow);
+    margin-bottom: 2rem;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    color: var(--esewa-text);
+}
+
+.form-input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid var(--esewa-border);
+    border-radius: var(--esewa-radius-sm);
+    font-size: 1rem;
+    transition: var(--esewa-transition);
+}
+
+.form-input:focus {
+    outline: none;
+    border-color: var(--esewa-green);
+    box-shadow: 0 0 0 3px var(--esewa-input-focus);
+}
+
+.form-textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+/* ========== TABLE STYLES ========== */
+.esewa-table {
+    width: 100%;
+    background: var(--esewa-card);
+    border-radius: var(--esewa-radius);
+    overflow: hidden;
+    box-shadow: var(--esewa-shadow);
+    margin-bottom: 2rem;
+}
+
+.esewa-table th {
+    background: var(--esewa-green);
+    color: white;
+    padding: 1rem;
+    text-align: left;
+    font-weight: 600;
+}
+
+.esewa-table td {
+    padding: 1rem;
+    border-bottom: 1px solid var(--esewa-border);
+}
+
+.esewa-table tr:hover {
+    background: #f8f9fa;
+}
+
+/* ========== LOADING STATES ========== */
+.loading-spinner {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgba(0, 177, 64, 0.3);
+    border-radius: 50%;
+    border-top-color: var(--esewa-green);
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* ========== RESPONSIVE DESIGN ========== */
+@media (max-width: 768px) {
+    .main {
+        padding: 1rem;
+    }
+
+    .esewa-header {
+        padding: 1.5rem;
+    }
+
+    .header-content h1 {
+        font-size: 1.5rem;
+    }
+
+    .metric-container {
+        grid-template-columns: 1fr;
+    }
+
+    .esewa-card {
+        padding: 1rem;
+    }
+}
+
+/* ========== STREAMLIT OVERRIDES ========== */
+.stButton > button {
+    background: linear-gradient(135deg, var(--esewa-green) 0%, #00C148 100%);
+    color: white;
+    border: none;
+    border-radius: var(--esewa-radius-sm);
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    transition: var(--esewa-transition);
+}
+
+.stButton > button:hover {
+    background: linear-gradient(135deg, #00C148 0%, var(--esewa-green) 100%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 177, 64, 0.3);
+}
+
+.stTextArea > div > div > textarea {
+    border-radius: var(--esewa-radius-sm);
+    border: 1px solid var(--esewa-border);
+}
+
+.stTextArea > div > div > textarea:focus {
+    border-color: var(--esewa-green);
+    box-shadow: 0 0 0 2px var(--esewa-input-focus);
+}
+
+.stSelectbox > div > div {
+    border-radius: var(--esewa-radius-sm);
+    border: 1px solid var(--esewa-border);
+}
+
+.stTabs [data-baseweb="tab-list"] {
+    gap: 0.5rem;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background: var(--esewa-light);
+    border-radius: var
+}

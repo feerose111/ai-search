@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.cache
+.cache/
+.cache/** 
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Milvus & Kafka data (if logged locally)
+kafka-logs/
+zookeeper-data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & artifacts
+test/

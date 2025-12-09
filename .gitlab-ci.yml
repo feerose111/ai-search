@@ -1,0 +1,53 @@
+stages:
+  - setup
+  - integration
+
+variables:
+  DOCKER_DRIVER: overlay2
+  PYTHONUNBUFFERED: 1
+  COMPOSE_PROJECT_NAME: ai_pipeline
+  COMPOSE_FILE: docker-compose.yml
+
+services:
+  - docker:dind
+
+default:
+  image: python:3.11
+  before_script:
+    - pip install --upgrade pip
+    - pip install -r requirements.txt
+    - apt-get update && apt-get install -y docker-cli-plugin-compose
+    - docker info
+    - docker compose version
+
+setup-environment:
+  stage: setup
+  script:
+    - echo "🔧 Starting services via Docker Compose..."
+    - docker compose up -d
+    - echo "⏱️ Waiting for services to be healthy..."
+    - |
+      timeout 300 sh -c '
+        until [ "$(docker inspect -f "{{.State.Health.Status}}" milvus-standalone)" = "healthy" ] &&
+              [ "$(docker inspect -f "{{.State.Health.Status}}" elasticsearch)" = "healthy" ] &&
+              [ "$(docker inspect -f "{{.State.Health.Status}}" kibana)" = "healthy" ]; do
+          echo "⏳ Waiting for services to become healthy..."
+          sleep 5
+        done
+      '
+    - echo "✅ All services are healthy and ready."
+  tags:
+    - docker
+  only:
+    - merge_requests
+
+setup-and-test:
+  stage: integration
+  script:
+    - echo "🏗️ Running pipeline.py..."
+    - python -m scripts.pipeline.py
+  timeout: 30m
+  tags:
+    - docker
+  only:
+    - merge_requests

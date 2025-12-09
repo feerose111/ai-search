@@ -1,0 +1,36 @@
+model:
+  model_name: "all-MiniLM-L6-v2"
+  rerank_model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  debug: true
+
+json:
+  json_url: "data/esewa_dataset.json"
+  query_json_url: "backend/data/query_history.json"
+  corpus_json_url: "data/corpus.json"
+
+api:
+  search_url: "http://localhost:8001/search"
+  upsert_url: "http://localhost:8001/admin/upsert"
+  admin_url: "http://localhost:8001/admin"
+  history_url: "http://localhost:8001/history"
+  search_url_second: "http://localhost:8011/search"
+  history_url_second: "http://localhost:8011/history"
+
+milvus:
+  MILVUS_HOST: "localhost"
+  MILVUS_PORT: "19530"
+  collection_name  : 'esewa_docs'
+  collection_name_second: 'esewa_docs_milvus'
+  history_collection_second: "history_docs"
+
+kafka:
+  kafka_broker : "{HOST_IP}:9092"
+
+log:
+  error_log: "logs/error.log"
+  upsert_log: "logs/upsert.log"
+
+es:
+  es_host: "localhost"
+  es_port: 9200
+  es_index: "esewa_docs"
